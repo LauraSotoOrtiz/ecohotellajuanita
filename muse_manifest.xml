@@ -1,0 +1,1367 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ecohotellajuanita.com" resolutions="1x" timestamp="1531102950015">
+  <folder name="css">
+    <file name="site_global.css" crc="4207308428"/>
+    <file name="master_master---index.css" crc="206230406" ref="index:birding:fauna:ubicación:alojamiento:contacto:sitios-naturales:servicios:patriminio-cultural-de-caldas:spa"/>
+    <file name="index.css" crc="4205036865" ref="index"/>
+    <file name="birding.css" crc="25482797" ref="birding"/>
+    <file name="fauna.css" crc="522719843" ref="fauna"/>
+    <file name="ubicaci_n.css" crc="124718733" ref="ubicación"/>
+    <file name="alojamiento.css" crc="4189048454" ref="alojamiento"/>
+    <file name="contacto.css" crc="4064172798" ref="contacto"/>
+    <file name="sitios-naturales.css" crc="3883888468" ref="sitios-naturales"/>
+    <file name="servicios.css" crc="491497270" ref="servicios"/>
+    <file name="patriminio-cultural-de-caldas.css" crc="3799133281" ref="patriminio-cultural-de-caldas"/>
+    <file name="spa.css" crc="446492809" ref="spa"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>alojamiento:phone>servicios:phone>ubicación:phone>contacto:index:sitios-naturales:patriminio-cultural-de-caldas:fauna:birding:ubicación:contacto:spa:servicios:alojamiento"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>alojamiento:phone>servicios:phone>ubicación:phone>contacto:index:sitios-naturales:patriminio-cultural-de-caldas:fauna:birding:ubicación:contacto:spa:servicios:alojamiento"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>alojamiento:phone>servicios:phone>ubicación:phone>contacto:index:sitios-naturales:patriminio-cultural-de-caldas:fauna:birding:ubicación:contacto:spa:servicios:alojamiento"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>alojamiento:phone>servicios:phone>ubicación:phone>contacto:index:sitios-naturales:patriminio-cultural-de-caldas:fauna:birding:ubicación:contacto:spa:servicios:alojamiento"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:phone>alojamiento:phone>servicios:phone>ubicación:phone>contacto:index:sitios-naturales:patriminio-cultural-de-caldas:fauna:birding:ubicación:contacto:spa:servicios:alojamiento"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>alojamiento:phone>servicios:index:birding:spa:servicios:alojamiento"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>alojamiento:index:birding:spa:servicios:alojamiento"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>alojamiento:index:birding:spa:servicios:alojamiento"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>alojamiento:index:birding:spa:servicios:alojamiento"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>alojamiento:phone>servicios:phone>ubicación:phone>contacto:index:sitios-naturales:patriminio-cultural-de-caldas:fauna:birding:ubicación:contacto:spa:servicios:alojamiento"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>alojamiento:phone>servicios:phone>ubicación:phone>contacto:index:sitios-naturales:patriminio-cultural-de-caldas:fauna:birding:ubicación:contacto:spa:servicios:alojamiento"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>alojamiento:phone>servicios:phone>ubicación:phone>contacto:index:sitios-naturales:patriminio-cultural-de-caldas:fauna:birding:ubicación:contacto:spa:servicios:alojamiento"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>servicios"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3878576953" ref="phone>index"/>
+    <file name="logo213x95.png" crc="331858505" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recepcion-crop-u16912.jpg" crc="3820630939" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>alojamiento:index:birding:spa:servicios:alojamiento"/>
+    <file name="dsc00513.jpg" crc="387422306" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20150908_130717.jpg" crc="192842450" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sala.jpg" crc="391339355" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20151103_164108-crop-u17009.jpg" crc="402568289" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barranquilo.jpg" crc="393197691" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="corre_2.jpg" crc="305457104" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="correor.jpg" crc="4059585965" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e_8_eco hotel-crop-u17045.jpg" crc="70582858" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e_9_eco hotel-crop-u17054.jpg" crc="4011909870" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="entr a_4.jpg" crc="363594676" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="entra-crop-u17072.jpg" crc="4286911286" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parking_2.jpg" crc="32752151" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="patio.jpg" crc="4061044923" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_piscina_ecohotel-crop-u17191.jpg" crc="4135389918" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_piscina_ecohotel-crop-u17200.jpg" crc="418339141" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_piscina_ecohotel-crop-u17209.jpg" crc="246381140" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4_piscina_ecohotel-crop-u17218.jpg" crc="4173696559" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>alojamiento:index:birding:spa:servicios:alojamiento"/>
+    <file name="5.jpg" crc="174600293" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_1_1381x214.jpg" crc="4101066803" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_1_4381x214.jpg" crc="317545022" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_2_2381x214.jpg" crc="3796366718" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_2_3381x214.jpg" crc="212964023" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_6_4381x214.jpg" crc="3954334643" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_7_1381x214.jpg" crc="400207473" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="1.jpg" crc="288203284" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_9_3381x214.jpg" crc="4282191840" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_9_2381x214.jpg" crc="452936320" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_9_4381x214.jpg" crc="518218705" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_9_5381x214.jpg" crc="4224755359" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_2381x214.jpg" crc="256896898" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_3381x214.jpg" crc="359592035" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_4381x214.jpg" crc="3772485039" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_5381x214.jpg" crc="20025041" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_6381x214.jpg" crc="4226584839" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_7381x214.jpg" crc="91853253" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_15_1381x214.jpg" crc="255816749" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_15_2381x214.jpg" crc="4167523108" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_15_3381x214.jpg" crc="275299925" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_15_4381x214.jpg" crc="55693407" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_16_6381x214.jpg" crc="4052396231" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_16_1381x214.jpg" crc="4056291490" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_16_3381x214.jpg" crc="9837682" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_16_4381x214.jpg" crc="3914943381" seo="true" ref="phone>alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc00483.jpg" crc="3814459845" seo="true" ref="phone>servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="infogafia-01.jpg" crc="504246916" seo="true" ref="phone>servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="7a.jpg" crc="383979787" seo="true" ref="phone>servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="20150802_145204jpg editada.jpg" crc="3866831292" seo="true" ref="phone>servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="mailing.png" crc="4270432244" seo="true" ref="index:sitios-naturales:patriminio-cultural-de-caldas:fauna:birding:ubicación:contacto:spa:servicios:alojamiento">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+      <caption webpage="sitios-naturales" alt=""/>
+      <caption webpage="spa" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fauna" alt=""/>
+      <caption webpage="alojamiento" alt=""/>
+      <caption webpage="ubicación" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="phone.png" crc="4027505758" seo="true" ref="index:sitios-naturales:patriminio-cultural-de-caldas:fauna:birding:ubicación:contacto:spa:servicios:alojamiento">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+      <caption webpage="sitios-naturales" alt=""/>
+      <caption webpage="spa" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fauna" alt=""/>
+      <caption webpage="alojamiento" alt=""/>
+      <caption webpage="ubicación" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="correor-crop-u10289.jpg" crc="3909136871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="entr a_4-crop-u10298.jpg" crc="3774984484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="entra-crop-u10307.jpg" crc="3842285044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parking_2-crop-u10334.jpg" crc="4288360840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="patio-crop-u10343.jpg" crc="4105435454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="piscina_2-crop-u10370.jpg" crc="4066325545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="piscina_5-crop-u10379.jpg" crc="3900511629" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recepcion.jpg" crc="242594178" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sala-crop-u10397.jpg" crc="3899885164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20151027_084513.jpg" crc="3863825951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20151103_164041.jpg" crc="278828569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20151103_164108.jpg" crc="346139253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="corre_2-crop-u10424.jpg" crc="4041925015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12-crop-u26406.jpg" crc="347238537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="correor60x47.jpg" crc="4057395072" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="entr a_460x45.jpg" crc="370967229" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="entra68x45.jpg" crc="254442675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parking_262x45.jpg" crc="4153942685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="patio60x51.jpg" crc="4150646582" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="piscina_271x45.jpg" crc="136376608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="piscina_560x46.jpg" crc="208747570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recepcion-crop-u10391.jpg" crc="175361912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sala64x45.jpg" crc="4263842958" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20151027_084513-crop-u6065.jpg" crc="77887867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20151103_164041-crop-u6043.jpg" crc="4036181310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20151103_164108-crop-u6053.jpg" crc="3903992719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="corre_260x45.jpg" crc="392403174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1268x45.jpg" crc="55403118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rutaspcc.png" crc="471489588" seo="true" ref="index:sitios-naturales:patriminio-cultural-de-caldas:fauna:birding:ubicación:contacto:spa:servicios:alojamiento">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+      <caption webpage="sitios-naturales" alt=""/>
+      <caption webpage="spa" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fauna" alt=""/>
+      <caption webpage="alojamiento" alt=""/>
+      <caption webpage="ubicación" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="logo.png" crc="4289759466" seo="true" ref="sitios-naturales:patriminio-cultural-de-caldas:fauna">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+      <caption webpage="sitios-naturales" alt=""/>
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="face.jpg" crc="371190247" seo="true" ref="sitios-naturales:patriminio-cultural-de-caldas:fauna">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+      <caption webpage="sitios-naturales" alt=""/>
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="twitt.jpg" crc="181829675" seo="true" ref="sitios-naturales:patriminio-cultural-de-caldas:fauna">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+      <caption webpage="sitios-naturales" alt=""/>
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="logo_rededop.jpg" crc="17405950" seo="true" ref="sitios-naturales">
+      <caption webpage="sitios-naturales" alt=""/>
+    </file>
+    <file name="nevado ruiz.jpg" crc="3925646784" seo="true" ref="sitios-naturales">
+      <caption webpage="sitios-naturales" alt=""/>
+    </file>
+    <file name="ecoparque-arenillo.jpg" crc="3761588199" seo="true" ref="sitios-naturales">
+      <caption webpage="sitios-naturales" alt=""/>
+    </file>
+    <file name="bosquepopular983x738.jpg" crc="215526746" seo="true" ref="sitios-naturales">
+      <caption webpage="sitios-naturales" alt=""/>
+    </file>
+    <file name="recintodelpensamiento.jpg" crc="530457129" seo="true" ref="sitios-naturales">
+      <caption webpage="sitios-naturales" alt=""/>
+    </file>
+    <file name="jardin_b986x740.jpg" crc="4259577052" seo="true" ref="sitios-naturales">
+      <caption webpage="sitios-naturales" alt=""/>
+    </file>
+    <file name="yarumos.jpg" crc="289384232" seo="true" ref="sitios-naturales">
+      <caption webpage="sitios-naturales" alt=""/>
+    </file>
+    <file name="rio blanco.jpg" crc="4038392277" seo="true" ref="sitios-naturales">
+      <caption webpage="sitios-naturales" alt=""/>
+    </file>
+    <file name="ecoparquemontaña-crop-u2193.jpg" crc="97441501" seo="true" ref="sitios-naturales">
+      <caption webpage="sitios-naturales" alt=""/>
+    </file>
+    <file name="chipre_web_1.jpg" crc="4087863434" seo="true" ref="sitios-naturales">
+      <caption webpage="sitios-naturales" alt=""/>
+    </file>
+    <file name="logo_pcc.png" crc="126067545" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="aguadas.jpg" crc="3816471373" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="anserma.jpg" crc="4135101036" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="aranzazu-crop-u2326.jpg" crc="232871060" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="belalcazar.jpg" crc="442164838" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="chinchina-crop-u2356.jpg" crc="3784212070" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="filadelfia.jpg" crc="4106613702" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="lamerced.jpg" crc="4276844541" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="museos-crop-u2373.jpg" crc="433109012" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="marmato-crop-u2619.jpg" crc="459968513" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="marulanda-crop-u2631.jpg" crc="373233231" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="neira-crop-u2390.jpg" crc="4260030164" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="pacora-crop-u2401.jpg" crc="4173271060" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="palestina-crop-u2413.jpg" crc="4033032466" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="riosucio-crop-u2431.jpg" crc="456977255" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="risaralda-crop-u2566.jpg" crc="4209673864" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="salamina.jpg" crc="4153235823" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="sanjose-crop-u2589.jpg" crc="4242336819" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="supia-crop-u2601.jpg" crc="473485885" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="villamaria-u2636.png" crc="4129340809" ref="patriminio-cultural-de-caldas"/>
+    <file name="viterbo-crop-u2659.jpg" crc="222443999" seo="true" ref="patriminio-cultural-de-caldas">
+      <caption webpage="patriminio-cultural-de-caldas" alt=""/>
+    </file>
+    <file name="mariposa 3-crop-u2795.jpg" crc="3948391077" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="yarumo.jpg" crc="359862049" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="arboloco.jpg" crc="3875325266" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="cedronegro-crop-u2937.jpg" crc="504392057" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="helecho.jpg" crc="3790940035" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="araucaria.jpg" crc="4202628819" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="guayacan.jpg" crc="59725571" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="guayaba.jpg" crc="3795572640" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="jazmín de noche.jpg" crc="500764835" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="anturio.jpg" crc="153062463" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="azucena.jpg" crc="3930345735" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="flor-de-navidad.jpg" crc="4167027269" seo="true" ref="fauna">
+      <caption webpage="fauna" alt=""/>
+    </file>
+    <file name="avist.jpg" crc="374094549" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a8743.jpg" crc="406135064" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a8794.jpg" crc="3886242378" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a8831.jpg" crc="461313467" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a8949.jpg" crc="290842294" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a9140.jpg" crc="4107762770" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a9252.jpg" crc="267512086" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a9545.jpg" crc="4221425257" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_7044.jpg" crc="3886469674" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_7070.jpg" crc="3903895200" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_7151.jpg" crc="3800505573" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_7176.jpg" crc="36159403" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_7266.jpg" crc="4133479166" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_7562.jpg" crc="192421034" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_7690.jpg" crc="4064488309" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="avist60x45.jpg" crc="395854225" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a874368x45.jpg" crc="523068449" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a879472x45.jpg" crc="3793186425" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a883170x45.jpg" crc="459531742" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a894970x45.jpg" crc="418254812" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a914073x45.jpg" crc="416349486" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a925271x45.jpg" crc="3854159408" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="_g6a954570x45.jpg" crc="469339672" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_704469x45.jpg" crc="4026544049" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_707071x45.jpg" crc="3872114558" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_715172x45.jpg" crc="4166750726" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_717671x45.jpg" crc="99411640" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_726669x45.jpg" crc="4184825800" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_756270x45.jpg" crc="4170903395" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="img_769071x45.jpg" crc="429357490" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="portafolio 2017_4_avesweb-05.jpg" crc="8979964" seo="true" ref="birding">
+      <caption webpage="birding" alt=""/>
+    </file>
+    <file name="despegar.jpg" crc="206065076" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="expedia_logo.jpg" crc="4116919573" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="trivago.png" crc="4062989611" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="tips-02-02.png" crc="246176198" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="rital bellezarrr.jpg" crc="469655734" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="desintoxicacion rrr.jpg" crc="3946826513" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img-20161006-wa0005.jpg" crc="329056166" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="limpieza facial profunda.jpg" crc="55562196" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="masaje relajante.jpg" crc="196748421" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="metamorfico.jpg" crc="513761038" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="podalrrr.jpg" crc="220697475" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="ritual chocolaterrr.jpg" crc="505235963" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="ritual exfoliacionrrr.jpg" crc="4059245114" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="rituales.jpg" crc="467476140" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="tuinarrr.jpg" crc="262965668" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="turco.jpg" crc="516334646" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="rital bellezarrr-crop-u23306.jpg" crc="184718362" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="desintoxicacion rrr-crop-u23326.jpg" crc="4247730299" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img-20161006-wa0005-crop-u23304.jpg" crc="63010321" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="limpieza facial profunda-crop-u23322.jpg" crc="427126032" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="masaje relajante-crop-u23310.jpg" crc="3884831907" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="metamorfico-crop-u23308.jpg" crc="4260427591" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="podalrrr-crop-u23324.jpg" crc="130454197" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="ritual chocolaterrr-crop-u23312.jpg" crc="4278328587" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="ritual exfoliacionrrr-crop-u23318.jpg" crc="4138068235" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="rituales-crop-u23320.jpg" crc="4137779482" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="tuinarrr-crop-u23316.jpg" crc="4074220476" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="turco-crop-u23314.jpg" crc="4196863384" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="ecospa-09.png" crc="4256742787" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="infogafia-012.jpg" crc="4223885177" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="1_piscina_ecohotel.jpg" crc="4157427497" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="2_piscina_ecohotel.jpg" crc="350850684" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="3_piscina_ecohotel.jpg" crc="247520338" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="4_piscina_ecohotel.jpg" crc="233706928" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="5_piscina_ecohotel.jpg" crc="398583489" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="6_piscina_ecohotel.jpg" crc="4063930422" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="20151103_144030.jpg" crc="248313819" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img_20150908_155540.jpg" crc="4048126809" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img_20150908_174349.jpg" crc="260492168" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img_20150908_174559.jpg" crc="3858980339" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img_20150909_114140.jpg" crc="4008853904" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img_20150909_114145.jpg" crc="255674493" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="infogafia-01-crop-u26139.jpg" crc="4032272403" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="1_piscina_ecohotel-crop-u26137.jpg" crc="3893078969" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="2_piscina_ecohotel-crop-u26131.jpg" crc="227542706" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="3_piscina_ecohotel-crop-u26133.jpg" crc="368736602" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="4_piscina_ecohotel-crop-u26143.jpg" crc="3864202813" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="5_piscina_ecohotel-crop-u26149.jpg" crc="4272954017" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="6_piscina_ecohotel-crop-u26135.jpg" crc="3866886847" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="20151103_144030-crop-u26151.jpg" crc="4082819644" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img_20150908_15554060x45.jpg" crc="44521856" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img_20150908_17434960x45.jpg" crc="349387965" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img_20150908_17455960x45.jpg" crc="4087081050" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img_20150909_11414060x45.jpg" crc="4057925354" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="img_20150909_11414560x45.jpg" crc="4116092025" seo="true" ref="spa">
+      <caption webpage="spa" alt=""/>
+    </file>
+    <file name="3.jpg" crc="350845208" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="ecor4.jpg" crc="3794969635" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="ecor9.jpg" crc="64261199" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img-20151220-wa0001.jpg" crc="3964673623" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img-20151220-wa0003.jpg" crc="3804693448" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="4.jpg" crc="3934207154" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="4a.jpg" crc="493384028" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="12.jpg" crc="354775024" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4110063824" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="3a.jpg" crc="12508491" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="52.jpg" crc="4260309441" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="8.jpg" crc="3966896844" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="9.jpg" crc="4101979558" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="122.jpg" crc="234651491" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="13.jpg" crc="464809626" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="14.jpg" crc="4171256465" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="15.jpg" crc="4049797366" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="362x45.jpg" crc="3979199821" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="ecor4-crop-u24339.jpg" crc="62657671" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="ecor960x45.jpg" crc="3773121541" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img-20151220-wa000160x45.jpg" crc="4242604264" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img-20151220-wa000360x45.jpg" crc="532822998" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="468x45.jpg" crc="4217797976" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="4a60x49.jpg" crc="3969952434" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="162x45.jpg" crc="273640228" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="268x45.jpg" crc="243128242" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="3a60x51.jpg" crc="127743155" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="568x45.jpg" crc="4163981497" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="870x45.jpg" crc="310951370" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="968x45.jpg" crc="3862861597" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1268x452.jpg" crc="428338425" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1373x45.jpg" crc="362640319" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1473x45.jpg" crc="307238345" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1568x45.jpg" crc="499368915" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="18.jpg" crc="4069175946" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="19.jpg" crc="426085213" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_0034.jpg" crc="4088701227" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_0016.jpg" crc="4270439075" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_0018.jpg" crc="3919248853" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_0020.jpg" crc="4241334885" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_0024.jpg" crc="4079516476" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_0027.jpg" crc="4273721449" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_1234.jpg" crc="509353491" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="22.jpg" crc="4139023977" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="dsc04858.jpg" crc="392379503" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="h.jpg" crc="230111248" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_20141227_132553.jpg" crc="3943926351" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_20141227_132651.jpg" crc="3895486443" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1860x45.jpg" crc="412502256" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1960x45.jpg" crc="4127069206" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_003460x45.jpg" crc="3785580128" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_001660x45.jpg" crc="3953989323" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_001860x45.jpg" crc="232264400" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_002060x45.jpg" crc="4066373430" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_002460x45.jpg" crc="3958280053" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_002760x45.jpg" crc="323302328" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_123460x45.jpg" crc="4123640577" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="2260x53.jpg" crc="3886154445" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="dsc0485860x45.jpg" crc="4217750767" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="h65x45.jpg" crc="4125602300" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_20141227_13255367x45.jpg" crc="3874233369" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_20141227_132651-crop-u24216.jpg" crc="337896110" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="7a2.jpg" crc="511929363" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="16.jpg" crc="3849873496" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="23.jpg" crc="4251684213" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="32.jpg" crc="4114675518" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="42.jpg" crc="524936729" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="53.jpg" crc="147935382" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3824502067" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="7.jpg" crc="417439176" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="82.jpg" crc="3821507430" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="123.jpg" crc="4059739758" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="132.jpg" crc="3981398244" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="8a.jpg" crc="4284865057" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="9a.jpg" crc="4267830512" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="124.jpg" crc="40277237" seo="true" ref="servicios:alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="133.jpg" crc="312619629" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="142.jpg" crc="368761636" seo="true" ref="servicios:alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="152.jpg" crc="256409511" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="17.jpg" crc="3824500321" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="7a68x45.jpg" crc="3956672644" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1-crop-u23850.jpg" crc="4218151628" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="261x45.jpg" crc="4035113110" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="3-crop-u23856.jpg" crc="272495225" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="4-crop-u23840.jpg" crc="3869902912" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="561x45.jpg" crc="162195853" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="660x45.jpg" crc="303232925" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="761x45.jpg" crc="247301129" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="8-crop-u23860.jpg" crc="3890893551" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1261x45.jpg" crc="4030526618" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1361x45.jpg" crc="404549320" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="8a68x45.jpg" crc="4033124703" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="9a60x47.jpg" crc="3953220881" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1268x453.jpg" crc="507880639" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1368x45.jpg" crc="464073010" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1468x45.jpg" crc="3965965744" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1568x452.jpg" crc="412111965" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="1768x45.jpg" crc="4089627136" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="lajuanita.jpg" crc="460478640" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fauna.jpg" crc="3821446393" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="11047939_956315001067918_3159986477030819782_n.jpg" crc="310430630" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="museos186x124.jpg" crc="328304922" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="cultural.jpg" crc="3831582941" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="logomanizalescity-crop-u3589.jpg" crc="4230501010" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="trafico ilegal.jpg" crc="249725504" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="img_4425.jpg" crc="4162047627" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="dis_2.jpg" crc="3902637470" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="h_1_1-crop-u14090.jpg" crc="58053838" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_1_3-crop-u14124.jpg" crc="381538868" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_1_4-crop-u14133.jpg" crc="3913185902" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_2_2-crop-u14166.jpg" crc="82133831" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_2_3-crop-u14200.jpg" crc="4136370030" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_2_4-crop-u14209.jpg" crc="398269816" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_3_1-crop-u14242.jpg" crc="210472153" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_3_2-crop-u14276.jpg" crc="3905848534" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_3_3-crop-u14285.jpg" crc="3921757044" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_4_2-crop-u14318.jpg" crc="3816409941" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_4_3-crop-u14347.jpg" crc="417942435" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_4_1-crop-u14361.jpg" crc="3941537040" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_5_1-crop-u14394.jpg" crc="367743684" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_5_2-crop-u14433.jpg" crc="258101104" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_5_3-crop-u14442.jpg" crc="156462833" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_5_4-crop-u14451.jpg" crc="4043554968" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_6_1-crop-u14014.jpg" crc="259559272" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_6_3-crop-u14048.jpg" crc="4271202406" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_6_4-crop-u14057.jpg" crc="486508106" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_7_1-crop-u14484.jpg" crc="3903299038" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_7_2-crop-u14523.jpg" crc="63566382" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_7_3-crop-u14532.jpg" crc="115094855" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_7_4-crop-u14541.jpg" crc="4134123460" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_6_1-crop-u14553.jpg" crc="259559272" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_8_3-crop-u14586.jpg" crc="4051317182" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_8_1-crop-u14620.jpg" crc="514016170" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_8_2-crop-u14629.jpg" crc="505925333" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_9_1-crop-u14662.jpg" crc="389410741" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_9_2-crop-u14706.jpg" crc="3845481463" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_9_3-crop-u14715.jpg" crc="4051609683" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_9_4-crop-u14724.jpg" crc="276621295" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_9_5-crop-u14733.jpg" crc="285406986" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_10_2-crop-u14766.jpg" crc="3936815003" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_10_3-crop-u14795.jpg" crc="171939505" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="110.jpg" crc="4049386854" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_11_2-crop-u14842.jpg" crc="280415394" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_11_3-crop-u14876.jpg" crc="412313871" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_11_4-crop-u14885.jpg" crc="472861297" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_11_1-crop-u14899.jpg" crc="270162893" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_1-crop-u14932.jpg" crc="384722894" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_2-crop-u14986.jpg" crc="356598618" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_3-crop-u14995.jpg" crc="466529065" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_4-crop-u15004.jpg" crc="4230513909" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_5-crop-u15013.jpg" crc="435431317" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_6-crop-u15022.jpg" crc="113988300" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_12_7-crop-u15031.jpg" crc="4154223429" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_13_1-crop-u15064.jpg" crc="3920888112" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_13_2-crop-u15103.jpg" crc="4090874971" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_13_3-crop-u15112.jpg" crc="176973262" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_13_4-crop-u15121.jpg" crc="3948126879" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_14_1-crop-u15154.jpg" crc="4048831734" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_14_2-crop-u15188.jpg" crc="134061054" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_14_3-crop-u15197.jpg" crc="312827507" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_15_1-crop-u15230.jpg" crc="3919431448" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_15_2-crop-u15269.jpg" crc="157295539" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_15_3-crop-u15278.jpg" crc="3971854647" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_15_4-crop-u15287.jpg" crc="486158328" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_16_1-crop-u15320.jpg" crc="24417999" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_16_2-crop-u15369.jpg" crc="4086653559" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_16_3-crop-u15378.jpg" crc="4218314341" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_16_4-crop-u15387.jpg" crc="216663097" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_16_5-crop-u15396.jpg" crc="65513688" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_16_6-crop-u15405.jpg" crc="4283556269" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_17_1-crop-u15438.jpg" crc="3890078687" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_17_2-crop-u15487.jpg" crc="3795907772" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_17_3-crop-u15496.jpg" crc="461556689" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_17_4-crop-u15505.jpg" crc="164630485" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_17_5-crop-u15514.jpg" crc="189553595" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_17_6-crop-u15523.jpg" crc="9226017" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_18_1-crop-u15556.jpg" crc="3953806633" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_18_2-crop-u15590.jpg" crc="4213456771" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="h_18_3-crop-u15599.jpg" crc="232358878" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc00487.jpg" crc="3833649472" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc00488.jpg" crc="475105931" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc00494.jpg" crc="390999126" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc00495.jpg" crc="3770458987" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc00496.jpg" crc="3933449916" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc00498.jpg" crc="4000952435" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc00502.jpg" crc="3769863865" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="img_20150908_130819.jpg" crc="138061569" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="img_20150908_130824.jpg" crc="160419876" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="img_20150908_130828.jpg" crc="4759274" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="img_20150908_130901.jpg" crc="221801874" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="20151103_144305.jpg" crc="4253614117" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="20151103_144317.jpg" crc="3494368" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="20151103_144322.jpg" crc="3900185826" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="20151103_144327.jpg" crc="96867044" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="20151103_144345.jpg" crc="535166475" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc0048760x45.jpg" crc="4283076108" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc0048860x45.jpg" crc="3971008359" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc0049460x45.jpg" crc="128591731" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc0049560x45.jpg" crc="166398781" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc0049660x45.jpg" crc="147222714" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc0049860x45.jpg" crc="4238230118" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="dsc0050260x45.jpg" crc="75319911" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="img_20150908_13081960x45.jpg" crc="4127669891" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="img_20150908_13082460x45.jpg" crc="21185126" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="img_20150908_13082860x45.jpg" crc="131469055" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="img_20150908_13090160x45.jpg" crc="4006850334" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="20151103_144305-crop-u25697.jpg" crc="4096266153" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="20151103_144317-crop-u25703.jpg" crc="124610908" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="20151103_144322-crop-u25701.jpg" crc="418367797" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="20151103_144327-crop-u25699.jpg" crc="332818083" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="20151103_144345-crop-u25705.jpg" crc="4169151529" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+    <file name="politica camping-01-01.png" crc="4023689557" seo="true" ref="alojamiento">
+      <caption webpage="alojamiento" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_master---index.css" crc="4149598831" ref="phone>contacto:phone>ubicación:phone>servicios:phone>index:phone>alojamiento"/>
+      <file name="contacto.css" crc="4249630396" ref="phone>contacto"/>
+      <file name="ubicaci_n.css" crc="531120119" ref="phone>ubicación"/>
+      <file name="servicios.css" crc="428535664" ref="phone>servicios"/>
+      <file name="index.css" crc="4290369363" ref="phone>index"/>
+      <file name="alojamiento.css" crc="527040198" ref="phone>alojamiento"/>
+    </folder>
+    <file name="index.html" crc="3842235775" seo="true" mt="1495395101387" redirect="true"/>
+    <file name="alojamiento.html" crc="43267598" seo="true" mt="1509380592992" redirect="true"/>
+    <file name="servicios.html" crc="125873359" seo="true" mt="1509376832686" redirect="true"/>
+    <file name="ubicación.html" crc="105270965" seo="true" mt="1491085606688" redirect="true"/>
+    <file name="contacto.html" crc="5746803" seo="true" mt="1491085606679" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="335353099" seo="true" mt="1513723368623" redirect="true"/>
+  <file name="sitios-naturales.html" crc="36782062" seo="true" mt="1513723368623" redirect="true"/>
+  <file name="patriminio-cultural-de-caldas.html" crc="3815001813" seo="true" mt="1513723368623" redirect="true"/>
+  <file name="fauna.html" crc="112932877" seo="true" mt="1513723368623" redirect="true"/>
+  <file name="birding.html" crc="4273622760" seo="true" mt="1513723368623" redirect="true"/>
+  <file name="ubicación.html" crc="3934325777" seo="true" mt="1513723368623" redirect="true"/>
+  <file name="contacto.html" crc="4037517651" seo="true" mt="1513723368623" redirect="true"/>
+  <file name="spa.html" crc="4280695594" seo="true" mt="1513723368623" redirect="true"/>
+  <file name="servicios.html" crc="4270467448" seo="true" mt="1513723368623" redirect="true"/>
+  <file name="alojamiento.html" crc="71010946" seo="true" mt="1513724012305" redirect="true"/>
+</manifest>
